@@ -9,3 +9,4 @@ Authentication	JWT + bcrypt
 Database	MongoDB (Mongoose)
 Cache / temp data	Redis
 Background jobs	Bull (with Redis)
+
